@@ -1,0 +1,138 @@
+.pokedex{
+    height: 100%;
+    width: 100%;
+    overflow: hidden;
+    position: fixed;
+    
+}
+
+.lid{
+    background: rgb(221, 199, 199);
+    position: absolute;
+    display: flexbox;
+    top: 25vh;
+    left: 40vh;
+    height: 60vh;
+    width: 45vh;
+}
+
+.left{
+	border-radius: 5% 0% 0% 5%;
+	background-color: #cc0c0c;
+}
+
+.right{
+    border-radius: 0 0 5% 0;
+	background-color: #cc0c0c;;
+    height: 50%;
+    top: 35%;
+    left: 86vh;
+}
+
+.buttons{
+    position: absolute;
+    width: 16%;
+    height: 12%;
+    border-radius: 100%;
+    top: 2%;
+    left: 2%;
+    background: rgb(114, 114, 187);
+}
+
+.btn1{
+    background: red;
+    width: 5%;
+    height: 4%;
+    top: 3%;
+    left: 20%;
+}
+
+.yllw{
+    background: yellow;
+    left: 27%;
+}
+
+.grnn{
+    background: green;
+    left: 35%;
+}
+
+.screen{
+    position: relative;
+	border-radius: 5% 5% 5% 25%;
+    top: 18%;
+    left: 15%;
+    width: 70%;
+    height: 40%;
+    background: white;
+}
+
+.below{
+    width: 13%;
+    height: 10%;
+    top: 65%;
+    left: 10%;
+    background: gray;
+}
+
+.rect{
+    position: inherit;
+    background: red;
+    width: 17%;
+    height: 3%;
+    top: 65%;
+    left: 25%;
+    border-radius: 50px;
+}
+
+.rect2 {
+    background: green;
+    left: 45%;
+}
+
+.rect3{
+    position: relative;
+    border-radius: 5px;
+    top: 30%;
+    left: 25%;
+    background-color: yellow;
+    width: 40%;
+    height: 15%;
+}
+
+.rect4{
+    position: relative;
+    background: black;
+    width: 10%;
+    height: 20%;
+    border-radius: 10px;
+    top: 10%;
+    left: 78%;
+}
+.rect5{
+    position: relative;
+    background: black;
+    border-radius: 10px;
+    height: 4.5vh;
+    width: 12vh;
+    top: -4%;
+    left: 70%;
+}
+
+.screenr{
+    position: inherit;
+    background-color: black;
+    border-radius: 30px;
+    width: 80%;
+    height: 25%;
+    top: 20%;
+    left: 10%;
+}
+
+.rectr{
+    background: blue;
+    width: 8vh;
+    height: 8vh;
+}
+
+
