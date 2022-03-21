@@ -188,9 +188,7 @@
 
 .texts{
     text-transform: capitalize;
-    font-size: revert;
     text-align: left;
-    display: inline-flex;
-
+    font-size: 1.5vh;
 
 }
